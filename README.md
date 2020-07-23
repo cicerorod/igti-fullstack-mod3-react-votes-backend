@@ -1,4 +1,4 @@
-# Api para criação aleatória de votação entre 3 pessoas         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# Api votação aleatória        ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Aplicação para disponibilizar via API RestFull votação aleatória desenvolvido no bootcamp fullstack da IGTI
 
@@ -64,6 +64,9 @@ HTTP GET solicitação que retorna uma resposta JSON contendo a votação.
 
 ```
 
+### ![](https://img.icons8.com/metro/20/000000/run-command.png) Frontend
+Para utilização da API, foi desenvolvido uma camada de apresentação que pode ser baixada [aqui][frontend]
+
 <!-- :hammer:-->
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
@@ -104,3 +107,11 @@ Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/
   <a href="https://icons8.com/icon/">Icons by Icons8</a>
 </p>
 
+
+
+[frontend]: https://nodejs.org/
+<!--
+[aqui]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[repo]:https://github.com/cicerorod/igti-fullstack-mod3-react-paises
+-->
