@@ -1,4 +1,4 @@
-# Api votação aleatória        ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# API votação aleatória        ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Aplicação para disponibilizar via API RestFull votação aleatória desenvolvido no bootcamp fullstack da IGTI
 
