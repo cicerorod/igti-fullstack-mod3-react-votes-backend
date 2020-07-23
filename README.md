@@ -64,7 +64,7 @@ HTTP GET solicitação que retorna uma resposta JSON contendo a votação.
 
 ```
 
-### ![](https://img.icons8.com/metro/20/000000/run-command.png) Frontend
+### ![](https://img.icons8.com/wired/20/000000/react.png) Frontend
 Para utilização da API, foi desenvolvido uma camada de apresentação que pode ser baixada [aqui][frontend]
 
 <!-- :hammer:-->
