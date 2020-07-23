@@ -110,7 +110,7 @@ Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/
 
 
 
-[frontend]: https://nodejs.org/
+[frontend]: https://github.com/cicerorod/igti-fullstack-mod3-react-votes-frontend
 <!--
 [aqui]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
