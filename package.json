@@ -1,0 +1,24 @@
+{
+  "name": "backend-igti-fullstack-mod3-react-votes-react-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "author": {
+    "name": "Cícero Rodrigues",
+    "email": "cicerorod@gmail.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teste/testing.git"
+  }
+}
