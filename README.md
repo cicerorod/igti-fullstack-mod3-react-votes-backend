@@ -19,7 +19,7 @@ Aplicação para disponibilizar via API RestFull votação aleatória desenvolvi
 2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd igti-fullstack-mod3-react-votes-backend-hooks`;
 3. Executar o comando `yarn` para baixar as dependências. Ex: `yarn`;
 4. Executar o comando `yarn start`. Ex: `yarn start`
-5. Acessar o endereço `http://localhost:8080/` conforme rotas definidos no item rotas
+5. Acessar o endereço `http://localhost:8080/` conforme rotas definidas no item rotas
 
 
 
