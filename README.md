@@ -73,6 +73,7 @@ Para utilização da API, foi desenvolvido uma camada de apresentação que pode
 
 
 - **[NodeJS](https://nodejs.org/en/)**
+- **[Cors](https://www.npmjs.com/package/cors)**
 - **[Json](https://www.w3schools.com/js/js_json_intro.asp)**
 - **[Express](http://expressjs.com/)**
 - **[Insomnia](https://insomnia.rest/download/)**
